@@ -1,17 +1,18 @@
-.speech{font-family: Arial, Helvetica, sans-serif; 
-    font-size: 8;
+.speech{font-family:'Times New Roman', Times, serif; 
+    font-size: 17px;
      color: black;}
 
 .stage{font-family: 'Courier New', Courier, monospace;
-    font-size: 10;
+    font-size: 23px;
     color: black;
     background-color: lightblue;}
 .name{font-family:Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 12;
+        font-size: 25px;
         color: black;}
 
-p.stage:hover{background-color: lightcoral; color: red;}
+.stage:hover{background-color:lightslategrey; color: red;}
 
 .KINGHENR{font-style: italic;color:lightgreen;}
 
 .WESTMORELAND{font-style: oblique;color: chocolate;}
+
