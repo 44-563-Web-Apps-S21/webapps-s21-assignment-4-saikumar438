@@ -9,6 +9,14 @@
 .name{font-family:Verdana, Geneva, Tahoma, sans-serif;
         font-size: 25px;
         color: black;}
+.name:hover{
+    text-shadow: 2px 15px 5px black;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    transition: transform .3s;
+    transform: scale(1.009); 
+}
 
 .stage:hover{background-color:lightslategrey; color: red;}
 
