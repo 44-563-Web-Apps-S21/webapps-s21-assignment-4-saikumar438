@@ -56,3 +56,27 @@ tr:nth-last-child(1){
     
 }
 
+ul{
+    list-style-type: none;
+    
+    /* width: 220px; */
+
+}
+li{
+    float:left;
+    background-color:lightskyblue;
+    /* display: inline; */
+    padding: 8px;
+    
+}
+.glyphicon{
+    margin-right: 4px;
+}
+
+a{
+    /* padding: 10px; */
+    text-decoration:none;
+    
+}
+
+
